@@ -13,4 +13,8 @@
     <None Remove="Park\**" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="Park\Park.csproj" />
+  </ItemGroup>
+
 </Project>
